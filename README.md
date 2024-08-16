@@ -2,16 +2,6 @@
 ![35e257ff-8a97-4c8c-b67b-59db735f939e](https://user-images.githubusercontent.com/43148881/232335658-89f123fa-f121-48d8-b907-2b35317804b7.jpg)
 
 
-## Dataset
-<a href="https://universe.roboflow.com/my-wokrspace/smart-shopping-cart-fjhoz">
-    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
-</a>
-
-
-- 608 Images
-- 870 Annotations
-- 5 classes
-
 ![Screenshot from 2023-04-16 21-52-42](https://user-images.githubusercontent.com/43148881/232335227-cfdbf44b-177c-48df-a655-2954513606fa.png)
 
 ### Class Balance
